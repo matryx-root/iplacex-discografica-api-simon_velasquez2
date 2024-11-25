@@ -1,4 +1,4 @@
-# iplacex-discografica-api-simon_velasquez2
-API REST Spring para administración de películas favoritas de empleados de IPLACEX
+# IPLACEX Discográfica API
 
-Hola desde local Simon
+API REST para gestionar actores y películas.
+
